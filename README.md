@@ -29,4 +29,4 @@ Successfully launched Linux EC2 instances in two AWS regions using a single Terr
 
 ## Author
 Junaid
-EOF
+E
